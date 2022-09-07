@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Anything 😁**
 
-- 📫 How to reach me **jnweze2@gmail.com / Twitter @thejosh_n**
+- 📫 How to reach me **joshuanweze270@gmail.com / Twitter @thejosh_n**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
