@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">A passionate frontend developer from planet Earth 🌍</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+<!-- - 🌱 I’m currently learning **ReactJs** -->
 
 - 💬 Ask me about **Anything 😁**
 
