@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">A passionate frontend developer from planet Earth 🌍</h3>
+<h3 align="center">A passionate Full Stack Developer from Earth 🌍</h3>
 
 - 👨‍💻 Check out my portfolio at [https://joshuanweze.netlify.app](https://joshuanweze.netlify.app)
 
@@ -21,7 +21,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,git,bootstrap,tailwind,vuejs,nuxtjs,expressjs,mongodb,postgres,figma,firebase,react,supabase" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,git,bootstrap,tailwind,vuejs,nuxtjs,expressjs,mongodb,postgres,figma,firebase,react,supabase,prisma" />
   </a>
 </p>
 
